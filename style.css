@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f5f6fa;
+}
+
+#titulli {
+    text-align: center;
+}
+#me-te-rejat {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#me-te-rejat article {
+    background-color: #00a8ff;
+    margin: 25px;
+    padding: 25px;
+    color: #192a56;
+}
